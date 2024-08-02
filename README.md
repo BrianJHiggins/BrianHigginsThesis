@@ -1,3 +1,3 @@
-Earnings Conference Calls transcripts list. Requires file
+Earnings Conference Calls transcripts list. 
 
-module_1: webscrapes raw transcripts and writes them to file 
+module_1: webscrapes ECC transcripts list.  Requires file: 'S&P 500 Index Stocks List.csv'
