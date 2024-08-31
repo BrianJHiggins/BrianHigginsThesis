@@ -16,7 +16,7 @@ Modules 3.1 – 4.1
 
 (1) Download and unzip Folders ‘FinBERT output files combined Part1.zip’ and ’FinBERT output files combined Part2.zip’.
 
-(2)  Download folder ‘Stock_Data_Files.zip’ must be downloaded and unzipped.
+(2)  Download and unzip folder ‘Stock_Data_Files.zip’.
 
 (3)  Download file ‘transcripts_all_analysed_level1_grouped_modified_with_sector_updated.csv’
 
