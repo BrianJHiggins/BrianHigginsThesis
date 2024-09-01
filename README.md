@@ -12,7 +12,7 @@ Modules 1.1 to 2.1
 
        The output file is ‘ECC_FinBERT_sentiment_output.csv’
        
-Modules 3.1 – 4.1
+Modules 3.1 – 4.1 (to run the research data)
 
 (1) Download and unzip Folders ‘FinBERT output files combined Part1.zip’ and ’FinBERT output files combined Part2.zip’.
 
