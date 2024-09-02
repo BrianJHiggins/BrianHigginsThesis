@@ -1,7 +1,7 @@
 Instructions to run the pipeline:
 
 
-This process is currently configured to run a demonstration that will scrape one live page from the website and 
+modules 1.1 - 2.1 are currently configured to run a demonstration that will scrape one live page from the website and 
 produce a sentiment analysis output. If it is required to run all the research data then it will be necessary 
 to change the page selection in the module 1.1 code to: 1 - 1000. 
 However, this may not be practical in one run due to the large dataset resulting.
