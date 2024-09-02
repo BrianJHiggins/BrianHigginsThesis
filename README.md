@@ -1,7 +1,9 @@
 Instructions to run the pipeline:
 
 Download the following modules: 1.1, 1.2, 1.3, 1.4, 2.1, 3.1, 3.2, 4.1. 
+
 Download and unzip the following folders: Stock_Data_Files, FinBERT output files Combined Part1 / and Part2
+
 Download the following files: S&P 500 Index Stocks List.csv, transcripts_all_analysed_level1_grouped_modified_with_sector_updated.csv
 
 modules 1.1 - 2.1 are currently configured to run a demonstration that will scrape one live page from the website and 
