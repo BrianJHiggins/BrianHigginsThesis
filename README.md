@@ -1,3 +1,6 @@
+The results file 'updated_combined_file_with_compatible_date.csv' is stored. 
+
+
 Instructions to run the pipeline:
 
 Download the following modules: 1.1, 1.2, 1.3, 1.4, 2.1, 3.1, 3.2, 4.1. 
