@@ -6,12 +6,13 @@ Download and unzip the following folders: Stock_Data_Files, FinBERT output files
 
 Download the following files: S&P 500 Index Stocks List.csv, transcripts_all_analysed_level1_grouped_modified_with_sector_updated.csv
 
-modules 1.1 - 2.1 are currently configured to run a demonstration that will scrape one live page from the website and 
-produce a sentiment analysis output. If it is required to run all the research data then it will be necessary 
+modules 1.1 - 2.1 are currently configured to run a demonstration that will scrape two live pages from the website and 
+produce a sentiment analysis output. 
+If it is required to run all the research data then it will be necessary 
 to change the page selection in the module 1.1 code to: 1 - 1000. 
 However, this may not be practical in one run due to the large dataset resulting.
 
-Modules 1.1 to 2.1
+Running modules 1.1 to 2.1
 (1) First download file ‘S&P 500 Index Stocks List.csv' to the working directory. This file is required by module 1.1
 
 (2) Run modules 1.1 – 1.4 in order
@@ -21,10 +22,10 @@ Modules 1.1 to 2.1
 (3) Run module 2.1 this takes as its input ‘ECC_FinBERT_Input.csv’
 
        The output file is ‘ECC_FinBERT_sentiment_output.csv’
+       
+       
+Running modules 3.1 – 4.1 (these modules will run the processed research data, producing the research oiutput )
 
-       
-       
-Modules 3.1 – 4.1 (these modules will run the processed research data, producing the research oiutput )
 What is required:
 (1) Download and unzip Folders ‘FinBERT output files combined Part1.zip’ and ’FinBERT output files combined Part2.zip’.
 
