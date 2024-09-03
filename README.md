@@ -28,7 +28,7 @@ Running modules 1.1 to 2.1
        
 
        
-Running modules 3.1 – 4.1 (these modules will run the processed research data, producing the research output )
+Running modules 3.1 – 4.1 (these modules will run the sentiment processed research data, producing the research output )
 
 (1) Download and unzip Folders ‘FinBERT output files combined Part1.zip’ and ’FinBERT output files combined Part2.zip’.
 
