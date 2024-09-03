@@ -14,6 +14,7 @@ However, this may not be practical in one run due to the large dataset resulting
 
 
 Running modules 1.1 to 2.1
+
 (1) First download file ‘S&P 500 Index Stocks List.csv' to the working directory. This file is required by module 1.1
 
 (2) Run modules 1.1 – 1.4 in order
@@ -25,9 +26,8 @@ Running modules 1.1 to 2.1
        The output file is ‘ECC_FinBERT_sentiment_output.csv’
        
        
-Running modules 3.1 – 4.1 (these modules will run the processed research data, producing the research oiutput )
+Running modules 3.1 – 4.1 (these modules will run the processed research data, producing the research output )
 
-What is required:
 (1) Download and unzip Folders ‘FinBERT output files combined Part1.zip’ and ’FinBERT output files combined Part2.zip’.
 
 (2)  Download and unzip folder ‘Stock_Data_Files.zip’.
