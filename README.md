@@ -14,6 +14,9 @@ However, this may not be practical in one run due to the large dataset resulting
 
 
 
+
+
+
 Running modules 1.1 to 2.1
 
 (1) First download file ‘S&P 500 Index Stocks List.csv' to the working directory. This file is required by module 1.1
