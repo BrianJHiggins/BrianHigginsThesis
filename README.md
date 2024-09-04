@@ -1,4 +1,4 @@
-The results file 'updated_combined_file_with_compatible_date.csv' is stored. 
+Results data in file 'updated_combined_file_with_compatible_date.csv'
 
 
 Instructions to run the pipeline:
