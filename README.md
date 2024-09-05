@@ -1,4 +1,5 @@
 Results data in file 'updated_combined_file_with_compatible_date.csv'
+
 Results correlation data: Q&A_tone_price_correlation.csv, Q&A_tone_price_correlation_by_GICS.csv, plots folder.
 
 Instructions to run the pipeline:
