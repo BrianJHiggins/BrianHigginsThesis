@@ -44,5 +44,7 @@ modules 3.1 – 4.1 (these modules will run the sentiment processed research dat
 
 
 The output is the results file 'updated_combined_file_with_compatible_date.csv' (module 3.2)
+
 and the Pearson correlation files, scatter plots and heatmaps.(module 4.1) and (module_GICS_correlation)
+
     _____________________________________________________________________
