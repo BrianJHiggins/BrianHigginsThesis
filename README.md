@@ -19,7 +19,7 @@ to change the page selection in the module 1.1 code(line 33) from 'range(301, 30
 However, this may not be practical in one run due to the large dataset resulting.
 
 
-
+Run:
 modules 1.1 to 2.1
 
 (1) First download file ‘S&P 500 Index Stocks List.csv' to the working directory. This file is required by module 1.1
@@ -33,7 +33,7 @@ modules 1.1 to 2.1
        The output file is ‘ECC_FinBERT_sentiment_output.csv’
        
 
-       
+Run:       
 modules 3.1 – 4.1 and GICS_correlation (these modules will run the sentiment processed research data, and will produce the research output )
 
 (1) Download and unzip Folders ‘FinBERT output files combined Part1.zip’ and ’FinBERT output files combined Part2.zip’.
