@@ -15,7 +15,7 @@ Download the following files: S&P 500 Index Stocks List.csv, transcripts_all_ana
 modules 1.1 - 2.1 are currently configured to run a demonstration that will scrape two live pages from the website and 
 produce a sentiment analysis output. 
 If it is required to run all the research data then it will be necessary 
-to change the page selection in the module 1.1 code(line 33) from 'range(301, 303)' to 'range(1, 1000)' 
+to change the page selection in module 1.1 code (line 33), from 'range(301, 303)' to 'range(1, 1000)' 
 However, this may not be practical in one run due to the large dataset resulting.
 
 
