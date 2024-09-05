@@ -3,7 +3,7 @@ Results data in file 'updated_combined_file_with_compatible_date.csv'
 
 Instructions to run the pipeline:
 
-Download the following modules: 1.1, 1.2, 1.3, 1.4, 2.1, 3.1, 3.2, 4.1. 
+Download the following modules: 1.1, 1.2, 1.3, 1.4, 2.1, 3.1, 3.2, 4.1, module_GICS_corrleation  
 
 Download and unzip the following folders: Stock_Data_Files, FinBERT output files Combined Part1 / and Part2
 
@@ -42,8 +42,9 @@ modules 3.1 – 4.1 (these modules will run the sentiment processed research dat
 
 (3)  Download file ‘transcripts_all_analysed_level1_grouped_modified_with_sector_updated.csv’ Required for module 3.2
 
-(4) Run modules 3.1, 3.2 and 4.1 in order. (ignore warnings in 3.2 and allow to complete ~ 2-3 minutes)
+(4) Run modules 3.1, 3.2 , 4.1 and module_GICS_correlation in order. (ignore warnings in 3.2 and allow to complete ~ 2-3 minutes)
+
 
 The output is the results file 'updated_combined_file_with_compatible_date.csv' (module 3.2)
-and the Pearson correlation files, scatter plots and heatmaps.(module 4.1)
+and the Pearson correlation files, scatter plots and heatmaps.(module 4.1) and (module_GICS_correlation)
     _____________________________________________________________________
