@@ -1,5 +1,5 @@
 Results data in file 'updated_combined_file_with_compatible_date.csv'
-
+Results correlation data: Q&A_tone_price_correlation.csv, Q&A_tone_price_correlation_by_GICS.csv, plots folder.
 
 Instructions to run the pipeline:
 
@@ -14,9 +14,6 @@ produce a sentiment analysis output.
 If it is required to run all the research data then it will be necessary 
 to change the page selection in the module 1.1 code(line 33) from 'range(301, 303)' to 'range(1, 1000)' 
 However, this may not be practical in one run due to the large dataset resulting.
-
-
-
 
 
 
