@@ -1,0 +1,4 @@
+,Q,Q,Q,A,A,A,Q&A,Q&A,Q&A
+,price_chng_5day,price_chng_2day,price_chng_1day,price_chng_5day,price_chng_2day,price_chng_1day,price_chng_5day,price_chng_2day,price_chng_1day
+Pearson Correlation,0.069557304,0.074015414,0.074975889,0.054893208,0.057536837,0.060875494,0.052696743,0.056850163,0.059558445
+P-value,2.10E-05,5.97E-06,4.51E-06,0.000303198,0.000152592,6.15E-05,2.20E-06,3.26E-07,8.73E-08
