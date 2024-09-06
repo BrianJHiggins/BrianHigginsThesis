@@ -1,7 +1,7 @@
 Results data in file 'updated_combined_file_with_compatible_date.csv'
 
-Results correlation data: Q&A_tone_price_correlation.csv, Q&A_tone_price_correlation_by_GICS.csv 
-and scatter plots,and correlation matrices in the 'plots' folder.
+Correlation results: Q&A_tone_price_correlation.csv, Q&A_tone_price_correlation_by_GICS.csv. 
+Scatter plots,correlation matrices in the 'plots' folder. 
 
 
 Instructions to run the pipeline:
